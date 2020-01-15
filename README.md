@@ -7,6 +7,6 @@ Valkan is a nice game that can be played both offline and online.
 
 ### Something Else
 
-Meet <a href="team.html">Our Team</a>!
+Meet <a href="team.md">Our Team</a>!
 
 
