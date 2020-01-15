@@ -4,7 +4,7 @@ Valkan is a nice game that can be played both offline and online.
 
 
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe src="https://www.youtube.com/watch?v=9ziuLmKNbRI">
 </iframe>
 
 ### Markdown
