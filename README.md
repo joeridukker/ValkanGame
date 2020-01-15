@@ -10,7 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <a href="team.html">Page 2</a>
 ```markdown
 Syntax highlighted code block
-<a href="team.html">Page 2</a>
 # Header 1
 ## Header 2
 ### Header 3
@@ -27,7 +26,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-<a href="team.html">Page 2</a>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joeridukker/ValkanGame/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
