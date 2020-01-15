@@ -1,11 +1,7 @@
----
-layout: default
-title: Another page
-description: This is just another page
----
+description: Our Team
 
-## Welcome to another page
+## Meet our team
 
-_yay_
+Joeri, Johan, Leung, Lourens and Nasr
 
-[back](./)
+Go [back](./)
