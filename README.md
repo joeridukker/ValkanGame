@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## In brief
 
-You can use the [editor on GitHub](https://github.com/joeridukker/ValkanGame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Valkan is a nice game that can be played both offline and online.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 
 ### Markdown
 
