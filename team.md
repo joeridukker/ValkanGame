@@ -3,7 +3,7 @@
 
 Joeri, Johan, Leung, Lourens and Nasr
 
-#Here is in brief what we worked on
+# Here is in brief what we worked on
 Joeri:
 - Multiplayer
 - Website
@@ -15,7 +15,7 @@ Johan:
 - Trailers
 
 Leung:
--File IO
+- File IO
 
 Lourens:
 - Auto tiling algorith
