@@ -3,7 +3,7 @@
 
 Joeri, Johan, Leung, Lourens and Nasr
 
-# Here is in brief what we worked on
+### What we worked on
 Joeri:
 - Multiplayer
 - Website
