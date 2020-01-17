@@ -26,7 +26,7 @@ Lourens:
 - Minimazing workload for the pc
 
 Nasr:
-- Pathfinding for monsters
+- Pathfinding for enemys
 
 
 Go [back](./)
