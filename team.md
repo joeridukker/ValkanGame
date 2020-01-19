@@ -14,6 +14,7 @@ Johan:
 - Animations
 - Visuals
 - Trailers
+- Gamedesign
 
 Leung:
 - File IO
@@ -24,6 +25,7 @@ Lourens:
 - Level editor
 - Collision detection & handling
 - Minimazing workload for the pc
+- Game engine
 
 Nasr:
 - Pathfinding for enemys
