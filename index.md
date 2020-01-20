@@ -11,7 +11,7 @@ The main goal is to have fun, but ofcourse also to win. You can do this by killi
 ### More info
 Meet [Our Team](./team.html)!
 
-Also see [Credits](./credits.html)!
+Also see [Credits](./credits.html).
 
 
 
