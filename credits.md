@@ -1,10 +1,9 @@
-## Meet our team
+## This is not ours!
 
-Joeri, Johan, Leung, Lourens and Nasr
+- https://opengameart.org/content/isometric-hero-and-heroine
+- https://opengameart.org/content/grassland-tileset
+- https://opengameart.org/content/plowed-rows
 
-
-### What we worked on
-Joeri:
-d
+The rest of the assets is made by ourselves
 
 Go [back](./)
