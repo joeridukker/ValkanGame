@@ -8,6 +8,10 @@ In Valkan you will have to fight your way to victory! Play one of the pre-build 
 ### Goal
 The main goal is to have fun, but ofcourse also to win. You can do this by killing every single monster in the current level.. Killing monsters is just as easy as picking one of the classes like wizard and spam your unique abilities to, for example, shoot fireballs!
 
+### Screenshots
+
+![ScreenShot](https://imgur.com/a/dmIVtcq)
+
 ### More info
 Meet [Our Team](./team.html)!
 
