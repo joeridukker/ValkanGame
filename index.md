@@ -12,9 +12,9 @@ The main goal is to have fun, but ofcourse also to win. You can do this by killi
 
 ![ScreenShot1](1.png)
 
-![ScreenShot2](2.png)
+![ScreenShot2](2.PNG)
 
-![ScreenShot3](3.png)
+![ScreenShot3](3.PNG)
 
 ### More info
 Meet [Our Team](./team.html)!
