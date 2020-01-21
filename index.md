@@ -10,11 +10,11 @@ The main goal is to have fun, but ofcourse also to win. You can do this by killi
 
 ### Screenshots
 
-![ScreenShot](1.png)
+![ScreenShot1](1.png)
 
-![ScreenShot](2.png)
+![ScreenShot2](2.png)
 
-![ScreenShot](3.png)
+![ScreenShot3](3.png)
 
 ### More info
 Meet [Our Team](./team.html)!
