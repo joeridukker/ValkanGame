@@ -20,7 +20,7 @@ Leung:
 - File IO
 
 Lourens:
-- Auto tiling algorith
+- Auto tiling algorithm
 - Presentations
 - Level editor
 - Collision detection & handling
@@ -28,7 +28,7 @@ Lourens:
 - Game engine
 
 Nasr:
-- Pathfinding for enemys
+- Pathfinding for enemies
 
 
 Go [back](./)
