@@ -10,7 +10,7 @@ The main goal is to have fun, but ofcourse also to win. You can do this by killi
 
 ### Screenshots
 
-![ScreenShot](https://imgur.com/a/dmIVtcq)
+![ScreenShot](1.png)
 
 ### More info
 Meet [Our Team](./team.html)!
